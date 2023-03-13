@@ -1,0 +1,16 @@
+{
+    "name": "ilona/php",
+    "description": "Ilonos PHP baigiamasis",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ilona"
+        }
+    ],
+    "require": {}
+}

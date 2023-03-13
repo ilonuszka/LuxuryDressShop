@@ -1,0 +1,98 @@
+{
+    "64076deb765b6": {
+        "ProductName": "Dior",
+        "ProductPrice": "1200 Eur",
+        "ProductSize": "XS",
+        "ProductQuantity": "1",
+        "ClientFName": "Chloja",
+        "ClientLName": "S",
+        "ClientPhone": "839759503",
+        "ClientEmail": "jje",
+        "DeliveryPostBox": "Omniva - Didlaukio 1, Vilnius",
+        "PaymentType": "Grynieji pinigai"
+    },
+    "64076df9a6555": {
+        "ProductName": "Dior",
+        "ProductPrice": "1200 Eur",
+        "ProductSize": "XS",
+        "ProductQuantity": "1",
+        "ClientFName": "Molis",
+        "ClientLName": "Cinamolis",
+        "ClientPhone": "38493840938",
+        "ClientEmail": "34f",
+        "DeliveryPostBox": "Omniva - Didlaukio 1, Vilnius",
+        "PaymentType": "Grynieji pinigai"
+    },
+    "64076e2a5558e": {
+        "ProductName": "Dior",
+        "ProductPrice": "1200 Eur",
+        "ProductSize": "XS",
+        "ProductQuantity": "1",
+        "ClientFName": "Natas",
+        "ClientLName": "Siekstelis",
+        "ClientPhone": "39593085903",
+        "ClientEmail": "gg",
+        "DeliveryPostBox": "DPD - Didlaukio 7, Vilnius",
+        "PaymentType": "Pavedimas"
+    },
+    "64076e3d13c54": {
+        "ProductName": "Ysl",
+        "ProductPrice": "1300 Eur",
+        "ProductSize": "XS",
+        "ProductQuantity": "1",
+        "ClientFName": "Aiste",
+        "ClientLName": "Gecyte",
+        "ClientPhone": "u9359343",
+        "ClientEmail": "jjj",
+        "DeliveryPostBox": "Omniva - Didlaukio 1, Vilnius",
+        "PaymentType": "Grynieji pinigai"
+    },
+    "64076e5314aae": {
+        "ProductName": "Venetta",
+        "ProductPrice": "900 Eur",
+        "ProductSize": "XS",
+        "ProductQuantity": "1",
+        "ClientFName": "Daiva",
+        "ClientLName": "Siekst",
+        "ClientPhone": "378479373",
+        "ClientEmail": "frfff",
+        "DeliveryPostBox": "Venipak - Ateities 17, Vilnius",
+        "PaymentType": "Banko kortel\u0117"
+    },
+    "64076eeee76cf": {
+        "ProductName": "Venetta",
+        "ProductPrice": "900 Eur",
+        "ProductSize": "XS",
+        "ProductQuantity": "1",
+        "ClientFName": "Fausta",
+        "ClientLName": "Armani",
+        "ClientPhone": "9999",
+        "ClientEmail": "kk",
+        "DeliveryPostBox": "DPD - Didlaukio 7, Vilnius",
+        "PaymentType": "Grynieji pinigai"
+    },
+    "64076f032c8bf": {
+        "ProductName": "Chanel",
+        "ProductPrice": "1000 Eur",
+        "ProductSize": "XS",
+        "ProductQuantity": "1",
+        "ClientFName": "Cinamonas",
+        "ClientLName": "Stonys",
+        "ClientPhone": "4555",
+        "ClientEmail": "dff",
+        "DeliveryPostBox": "Venipak - Ateities 17, Vilnius",
+        "PaymentType": "Pavedimas"
+    },
+    "64076f1ea5729": {
+        "ProductName": "Bottega",
+        "ProductPrice": "1100 Eur",
+        "ProductSize": "XS",
+        "ProductQuantity": "1",
+        "ClientFName": "Dalia",
+        "ClientLName": "Mateika",
+        "ClientPhone": "r5555",
+        "ClientEmail": "ffff",
+        "DeliveryPostBox": "Omniva - Didlaukio 1, Vilnius",
+        "PaymentType": "Grynieji pinigai"
+    }
+}
